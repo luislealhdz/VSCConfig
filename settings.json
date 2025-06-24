@@ -1,0 +1,153 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.editorAssociations": {
+        "*.otf": "default"
+    },
+    "prettier.tabWidth": 4,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "trailing-spaces.backgroundColor": "rgba(59,59,59,1)",
+    "trailing-spaces.borderColor": "rgba(69,69,69,1)",
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/dist/css"
+        }
+    ],
+    "liveSassCompile.settings.includeItems": [],
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.env.osx": {},
+    "editor.fontSize": 16,
+    "files.autoSave": "onFocusChange",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.folders.color": "#fdd835",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "console-ninja.featureSet": "Community",
+    "hubspot.neverUseHubl": true,
+    "vscode-pets.theme": "castle",
+    "turboConsoleLog.insertEmptyLineAfterLogMessage": true,
+    "turboConsoleLog.quote": "`",
+    "turboConsoleLog.logMessagePrefix": "📟",
+    "turboConsoleLog.logMessageSuffix": " -->",
+    "turboConsoleLog.delimiterInsideMessage": "-",
+    "window.zoomLevel": 1,
+    "todo-tree.highlights.customHighlight": {
+        "BUG": {
+            "icon": "bug"
+        },
+        "HACK": {
+            "icon": "tools"
+        },
+        "FIXME": {
+            "icon": "flame"
+        },
+        "XXX": {
+            "icon": "x"
+        },
+        "[ ]": {
+            "icon": "issue-draft"
+        },
+        "[x]": {
+            "icon": "issue-closed"
+        },
+        "TODO": {
+            "foreground": "#1F1F1F",
+            "background": "#FF8C00"
+        }
+    },
+    "todo-tree.highlights.defaultHighlight": {},
+    "todo-tree.general.tagGroups": {},
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "editor.hover.sticky": false,
+    "rainbow_csv.enable_sticky_header": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.productIconTheme": "material-product-icons",
+    "symbols.hidesExplorerArrows": false,
+    "editor.unicodeHighlight.invisibleCharacters": false
+}
